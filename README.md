@@ -12,8 +12,10 @@ In my spare time I train kickboxing and do all kinds of sports with my dogs, fro
 * CSS (SCSS, MaterialUI, ThemeUI, Bootstrap)
 * JavaScript
 * React
+* Next.js
 * Redux
 * MobX
+* Vue
 * TypeScript
-* NextJS
+* Cypress
 * Firebase
